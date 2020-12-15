@@ -1,0 +1,4 @@
+certifi==2020.11.8
+parse==1.18.0
+pyserial==3.5
+wincertstore==0.2
